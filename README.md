@@ -53,4 +53,3 @@ Lab5 uses `np.reshape(..., shape=...)`, which needs a recent NumPy 2.x, so don't
 ├── requirements.txt
 └── README.md
 ```
-# ESUM
